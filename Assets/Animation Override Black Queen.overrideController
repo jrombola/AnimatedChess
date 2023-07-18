@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Animation Override Black Queen
+  m_Controller: {fileID: 9100000, guid: 7ef37fb12352a7a4e8601ece248a0fc0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7ad18a245567537499902f7fdd0da169, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 9ad2ad510a1fd694392849b8dce337e3, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8c6c30d2af53ddb4bbb7c2b603083f1b, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 9f159f6b3339be1409c27761d89f18bd, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 43034189f893dcc40981f2465cff164a, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 347d2e064d3a3f946b17655dcc998386, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 21e89d6bb2aca774996f245df2a1827a, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 1f674d87cae509644a306408e4fecfc1, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: f3d2edfe61b655b45ae61a44f3c57d69, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: df5d29c6a8c8f1c4caef2b4c1d0b073a, type: 3}

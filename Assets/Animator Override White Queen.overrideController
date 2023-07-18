@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Animator Override White Queen
+  m_Controller: {fileID: 9100000, guid: 7ef37fb12352a7a4e8601ece248a0fc0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f3d2edfe61b655b45ae61a44f3c57d69, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: db789609ec8cd1e4488f277026c78a20, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 43034189f893dcc40981f2465cff164a, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 8f9fa9b92f0028845a5ec1fe695b0b77, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 21e89d6bb2aca774996f245df2a1827a, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bf1c78b71e1452f4f8514aaae7093f41, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ad18a245567537499902f7fdd0da169, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 2decfbd282a88ec46b0d0c4aa37b96fc, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8c6c30d2af53ddb4bbb7c2b603083f1b, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 31842cafe20fc6b4caa71e36c29c5655, type: 3}
